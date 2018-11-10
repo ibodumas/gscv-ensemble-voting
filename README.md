@@ -2,6 +2,8 @@
 
 @@FUN STUFF
 
+![Screenshot](ensemble.png)
+
 ### Pre-processing:
 Step 1: Loaded the training dataset into a pandas data frame. <br>
 Step 2: Removed redundant features<br>

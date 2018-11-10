@@ -2,9 +2,9 @@
 *.csv
 *demo
 *.idea
-*.ipynb
 *.lock
 *#
+.ipynb_checkpoints
 
 
 

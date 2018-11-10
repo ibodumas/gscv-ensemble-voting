@@ -24,6 +24,7 @@ Step 1: Split the preprocessed training data into train set and test set.<br>
 Step 2: Picked 10 for k-fold cross validation (This can be an environment variable).<br>
 Step 3: Set metric evaluation to roc-auc (This can be an environment variable).<br>
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png)
+
 Step 4: Constructed a data frame to house the performance of each models.<br>
 Step 5: Implemented grid search cross validation for the models that requires picking optimal hyper-parameters.<br>
 Step 5: Models<br>

@@ -1,6 +1,8 @@
 # Ensemble Voting (Grid Search CV) 
 
-@@FUN STUFF
+@@FUN STUFF <br>
+
+`:bowtie:`
 
 ![Screenshot](ensemble.png)
 

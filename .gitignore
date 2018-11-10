@@ -1,14 +1,13 @@
-# Byte-compiled / optimized / DLL files
 *.csv
 *demo
 *.idea
 *.lock
 *#
-.ipynb_checkpoints
-.py
+*.ipynb_checkpoints
+*.py
 
 
-
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class

@@ -5,6 +5,7 @@
 *.lock
 *#
 .ipynb_checkpoints
+.py
 
 
 

@@ -1,1 +1,1 @@
-# gscv-ensemble-voting
+# Ensemble Voting (Grid Search) 

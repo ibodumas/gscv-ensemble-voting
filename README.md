@@ -2,7 +2,10 @@
 
 @@FUN STUFF <br>
 
-:bowtie:
+:bowtie: 
+:boom:
+:pray:
+:runner:
 
 ![Screenshot](ensemble.png)
 

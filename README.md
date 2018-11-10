@@ -2,7 +2,7 @@
 
 @@FUN STUFF <br>
 
-`:bowtie:`
+:bowtie:
 
 ![Screenshot](ensemble.png)
 

@@ -9,11 +9,11 @@ Step 3: Calculated the percentage of the missing values per features.<br>
 Step 4: Eliminated the features with very high ratio of missing values.<br>
 Step 5. Constructed imputation processes by most frequent for handling the remaining features with missing values.<br>
 Step 6: Built a procedure to properly incorporate the text based feature;<br>
-    a) Take out the variable.<br>
-    b) Get all the unique codes across all the samples.<br>
-    c) Made a data frame with columns corresponding to (b) above.<br>
-    d) Went through the samples, split the codes, and flagged the columns corresponding to the codes in (c) above.<br>
-    e) These resulted in a data frame with the columns as unique codes. And there values are 1 or 0 signifying the presence of the code or not respectively.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Take out the variable.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Get all the unique codes across all the samples.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) Made a data frame with columns corresponding to (b) above.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d) Went through the samples, split the codes, and flagged the columns corresponding to the codes in (c) above.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e) These resulted in a data frame with the columns as unique codes. And there values are 1 or 0 signifying the presence of the code or not respectively.<br>
 Step 7: Concatenated the processed feature data with the remaining data set.<br>
 Step 8: Initiated One-Hot encoding for the categorical variables (ignored ordering).<br>
 Step 9: Implemented [0, 1] normalization<br>

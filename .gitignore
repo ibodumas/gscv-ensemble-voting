@@ -1,10 +1,11 @@
 # Byte-compiled / optimized / DLL files
-*data.csv
-*.~lock.problem_description.docx#
+*.csv
 *demo
 *.idea
 *.ipynb
 *.lock
+*#
+
 
 
 __pycache__/

@@ -1,4 +1,5 @@
 # Ensemble Voting (Grid Search CV) 
+<<<<<<< HEAD
 
 @@FUN STUFF
 
